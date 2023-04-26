@@ -1,0 +1,124 @@
+51 72
+Brazil -56.03048 -8.35231
+Peru -75.46424 -10.42925
+Bolivia -64.60128 -16.68147
+Colombia -72.91459 4.48987
+Venezuela -66.18325 7.22932
+Mexico -102.56433 23.93724
+UnitedState -101.88452 39.74628
+Canada -112.32361 60.36483
+GreenLand -46.33338 65.83769
+IceLand -18.20838 65.03394
+Sweden 16.06896 64.52165
+Norway 9.38318 62.04769
+FinLand 26.17028 62.12998
+Ireland -8.63440 53.25916
+Germany 10.52575 51.37918
+Spain -3.53675 39.54708
+Portugal -8.98597 40.82278
+Turkey 35.57458 39.13925
+Iran 54.20739 32.37141
+Libya 17.38122 27.18701
+Egypt 29.94958 27.34326
+Morocco -6.45653 31.86342
+Algeria 2.63529 28.41051
+Chad 18.86463 14.94936
+Niger 9.34795 17.72142
+Nigeria 8.15837 9.63805
+Congo 15.06269 -0.95577
+Angola 17.58954 -12.32927
+Namibia 17.15009 -22.17724
+SouthAfrica 24.11542 -30.87394
+Madagascar 46.21991 -21.05375
+Tanzania 34.81610 -6.39174
+Jordan 36.76770 31.35425
+Mali -1.87452 18.03885
+Mauritania -10.75148 20.44507
+Georgia 43.33279 42.18465
+Sudan 30.38625 16.48611
+Kazakhstan 67.00974 48.07595
+Pakistan 69.41810 29.93478
+India 80.03739 23.18846
+Srilanka 80.66908 7.63401
+Australia 132.84983 -24.68506
+China 103.71533 36.00193
+Mongolia 102.86064 46.65465
+Korea 126.07901 40.20512
+Japan 137.88342 35.88647
+Russia 99.01208 62.20766
+Philippines 122.74224 12.72453
+Malaysia 103.58209 3.86267
+Indonesia 114.30474 -1.93482
+Argentina -64.23495 -35.06457
+Brazil Peru
+Brazil Venezuela
+Brazil Colombia
+Brazil Bolivia
+Argentina Brazil
+Argentina Bolivia
+Venezuela Colombia
+Venezuela Mexico
+Peru Bolivia
+Peru Colombia
+Mexico UnitedState
+Canada UnitedState
+GreenLand IceLand
+GreenLand Canada
+Sweden FinLand
+Sweden IceLand
+Sweden Ireland
+Sweden Germany
+FinLand Germany
+FinLand Russia
+Ireland Germany
+Ireland IceLand
+Germany Georgia
+Germany Spain
+Germany Turkey
+Spain Portugal
+Spain Morocco
+Algeria Morocco
+Algeria Libya
+Algeria Niger
+Algeria Mauritania
+Algeria Mali
+Mauritania Mali
+Mali Niger
+Mali Nigeria
+Niger Nigeria
+Niger Libya
+Niger Chad
+Chad Nigeria
+Chad Libya
+Chad Sudan
+Sudan Egypt
+Sudan Libya
+Sudan Congo
+Congo Angola
+Congo Tanzania
+Angola Namibia
+Namibia SouthAfrica
+Jordan Egypt
+Iran Pakistan
+Iran Turkey
+Turkey Georgia
+Georgia Kazakhstan
+Georgia Russia
+Kazakhstan Russia
+Kazakhstan China
+Kazakhstan Mongolia
+China Mongolia
+China India
+China Korea
+China Russia
+Mongolia Russia
+Tanzania Madagascar
+Tanzania Congo
+Egypt Libya
+Japan Korea
+Philippines Malaysia
+Philippines Indonesia
+Indonesia Malaysia
+Malaysia Srilanka
+Srilanka India
+Australia Indonesia
